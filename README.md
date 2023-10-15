@@ -1,2 +1,0 @@
-# ShadowOfJusticeGame
-A simple game 
